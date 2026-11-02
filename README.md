@@ -1,16 +1,15 @@
-## Hi there 👋
+### about.
 
-<!--
-**osama-tk/osama-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fullstack engineer with 04+ years of experience specializing in modern frontend development, building scalable, responsive, and high-performance web applications with a strong focus on user experience, performance, and maintainable architecture.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### elsewhere.
+
+<samp>
+  
+work &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://thetkdesigns.com/">@TKDesigns</a><br/>
+writing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://medium.com/@osamajavaid">medium.com/@osamajavaid</a><br/>
+linkedin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/iosamajavaid">in/iosamajavaid</a><br/>
+mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:iosamajavaid@email.com">iosamajavaid@email.com</a><br/>
+whatsapp &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/+923229106881">wa.me/osamajavaid</a>
+</samp>
